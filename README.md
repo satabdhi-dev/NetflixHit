@@ -28,11 +28,11 @@ To classify Netflix titles as "Hit" or "Non-Hit" using pre-release metadata, hel
 - Random Forest achieved ~88.9% accuracy.
 - SVM had the best recall for identifying hits (~90%).
 
-## 📈 Visuals
-<p align="center">
+<!--- ## 📈 Visuals ---->
+<!---- <p align="center">
   <img src="images/fig1_dataset_balance.png" width="400"/>
   <img src="images/fig2_pca_variance.png" width="400"/>
-</p>
+</p>  ---->
 
 ## 🚀 Future Improvements
 - Add viewer sentiment or watch-time behavior data
@@ -45,5 +45,5 @@ To classify Netflix titles as "Hit" or "Non-Hit" using pre-release metadata, hel
 
 ---
 
-**Author:** [Your Name Here]  
+**Author:** [satabdhi Priyadarsani Behera]  
 _Internship Project | 2025_
